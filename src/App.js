@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react';
 import Dice from './components/Dice';
-import Confetti from 'react-confetti'
+import Confetti from 'react-confetti';
 import DiceProperties from './DiceProperties';
 
 /*
